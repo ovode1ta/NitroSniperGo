@@ -1,6 +1,6 @@
 {
   "tokens": {
-    "main": "",
+    "main": " ODY3NDM2ODY5OTY4OTg2MTYy.GVVMl-.OCpxLHAzDHy_ckoYzOBWeshwyXYMHDfFdiMqOA",
     "alts": [
       ""
     ]
@@ -23,7 +23,8 @@
     "blacklist_words": [
       "bot",
       "test",
-      "ban"
+      "ban",
+      "selfbot"
     ],
     "whitelist_words": [
       "nitro"
@@ -40,10 +41,10 @@
     "cooldown": 6
   },
   "privnote": {
-    "enable": false
+    "enable": true
   },
   "webhook": {
-    "url": "",
+    "url": "https://canary.discord.com/api/webhooks/1137756436630339674/j7mZIFqfsrASPOQHADGBNgZ-oTkx65VwjwISkuwtuOb5acx2rxYK9TyyRhcGsAsU9LXr",
     "good_only": false
   },
   "blacklist_servers": []
